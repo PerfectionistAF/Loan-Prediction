@@ -1,4 +1,4 @@
-# CSE338
+# CSE338: Data Mining and Business Intelligence
 Major Task
 Loan prediction is a common data mining problem which most retail banks solve on a 
 daily basis. It’s the process of predicting who deserves to receive a given loan and at what 
