@@ -6,21 +6,16 @@ https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.h
 https://www.malicksarr.com/remove-missing-values-in-python/#:~:text=The%20simplest%20and%20fastest%20way,frame%20containing%20an%20empty%20value.
 
 
-1- remove multiple missing tuples
-2- decide for each feature how to fill missing data:
-	- ignore tuple
-	- replace with a new value
-	- replace loan amount term and credit history with most_frequent/ regression
-	- coapplicantincome = 0 has to be separated (data sampling)
-	- 
-	- replace everything else with mean
+1- cleaning
 
-- remove outliers (use z-score normalization to decrease the
+2- remove outliers (use z-score normalization to decrease the
 impact of outliers, then decide whether they are worht keeping or deleting)
 source: https://www.geeksforgeeks.org/data-normalization-in-data-mining/
 (knn or isolation forest for anomaly detection)
-- discretization, normalization (research)
 
+3- discretization
+4- normalization (research)
+5- feature selection (pca, etc, curse of dimensionality)
 
 - note: finish visualization
 we might want to reduce skewness to assist in plotting. this can be done using data
