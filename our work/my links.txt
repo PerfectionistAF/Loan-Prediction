@@ -14,7 +14,7 @@ source: https://www.geeksforgeeks.org/data-normalization-in-data-mining/
 (knn or isolation forest for anomaly detection)
 
 3- discretization
-4- normalization (research)
+4- normalization 
 5- feature selection (pca, etc, curse of dimensionality)
 
 - note: finish visualization
