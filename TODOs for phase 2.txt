@@ -1,0 +1,5 @@
+stacking:
+https://scikit-learn.org/stable/auto_examples/ensemble/plot_stack_predictors.html#sphx-glr-auto-examples-ensemble-plot-stack-predictors-py
+
+stratified sampling
+resevoir sampling
