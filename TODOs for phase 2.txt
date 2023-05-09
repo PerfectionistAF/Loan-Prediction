@@ -1,3 +1,17 @@
+classification methods we studied:
+non-linear: knn, decision tree, naive bayes
+linear: regression
+
+to divide data:
+Divide data to train 80% and test 20%
+
+use to evaluate: 
+For a good binary Classification model, the value of log loss should be near to 0.
+confusion matrix
+
+
+
+
 stacking:
 https://scikit-learn.org/stable/auto_examples/ensemble/plot_stack_predictors.html#sphx-glr-auto-examples-ensemble-plot-stack-predictors-py
 
