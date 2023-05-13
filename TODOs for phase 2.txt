@@ -9,6 +9,9 @@ use to evaluate:
 For a good binary Classification model, the value of log loss should be near to 0.
 confusion matrix
 
+TODO use pipeline.
+if accuracy of model is acceptable, use it to classify new data
+
 
 
 
@@ -17,3 +20,4 @@ https://scikit-learn.org/stable/auto_examples/ensemble/plot_stack_predictors.htm
 
 stratified sampling
 resevoir sampling
+
